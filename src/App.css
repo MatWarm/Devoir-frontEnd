@@ -1,0 +1,10 @@
+.scrollable-text {
+    width: 500px;
+    height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    resize: both;
+    max-width: 100%;
+}
